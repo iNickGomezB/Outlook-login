@@ -1,0 +1,21 @@
+:root {
+    --blue: #086CBA;
+    --blue-drk: #0067B8;
+}
+.txt-blue {
+    color: var(--blue);
+}
+.bg-blue {
+    background-color: var(--blue-drk);
+}
+.form_img {
+    width: 80px;
+    height: 30px;
+}
+.form {
+    width: 380px;
+    height: 350px;
+}
+.fs-7 {
+    font-size: .7rem;
+}
